@@ -9,7 +9,7 @@ function DashboardCard({ title, value }) {
     </div>
   );
 }
-
+//Template Code
 function App() {
   return (
     <div className='dashboard'>
