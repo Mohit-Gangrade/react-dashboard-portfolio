@@ -1,6 +1,6 @@
 # React Dashboard Portfolio
 
-A simple dashboard-style React portfolio for Naukri.
+A simple dashboard-style React portfolio.
 
 ## 🔧 Stack
 - React (Vite)
